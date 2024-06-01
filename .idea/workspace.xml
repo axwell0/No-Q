@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c2e788f-87e7-48ee-8993-7620bb315bda" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.1" />
+  <component name="ProjectId" id="2KEH0FYEi1SQYUeusIQcQPSZmke" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/axwell/Desktop/JetBrains-Discord-Integration/lib/discord-rpc-release-v3.4.0.jar&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\noq\styles" />
+      <recent name="C:\xampp\htdocs\noq\scripts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c2e788f-87e7-48ee-8993-7620bb315bda" name="Changes" comment="" />
+      <created>1673532614497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673532614497</updated>
+      <workItem from="1673532618590" duration="2485000" />
+      <workItem from="1673538069559" duration="1464000" />
+      <workItem from="1673539657029" duration="2404000" />
+      <workItem from="1673545204096" duration="6687000" />
+      <workItem from="1673561342817" duration="1155000" />
+      <workItem from="1673613644744" duration="4319000" />
+      <workItem from="1673872884629" duration="3514000" />
+      <workItem from="1673956544682" duration="28719000" />
+      <workItem from="1674003040757" duration="2126000" />
+      <workItem from="1674085202119" duration="1317000" />
+      <workItem from="1674087736854" duration="1564000" />
+      <workItem from="1674089568799" duration="1369000" />
+      <workItem from="1674145679548" duration="3896000" />
+      <workItem from="1674156266166" duration="8836000" />
+      <workItem from="1674172850214" duration="9808000" />
+      <workItem from="1674182954895" duration="3803000" />
+      <workItem from="1674186845254" duration="7000" />
+      <workItem from="1674240828227" duration="5355000" />
+      <workItem from="1674249176330" duration="8859000" />
+      <workItem from="1674259722475" duration="944000" />
+      <workItem from="1674268164726" duration="1759000" />
+      <workItem from="1674270035547" duration="164000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

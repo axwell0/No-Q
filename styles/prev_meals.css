@@ -1,0 +1,25 @@
+table {
+    width: 80%;
+    margin: 10px ;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid rgb(0, 0, 0);
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: #CFB997;
+    color: white;
+    font-weight: bold;
+}
+.table-container {  display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; }
+
+table {
+    width: 100%;
+}
